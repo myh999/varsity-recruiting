@@ -5,3 +5,5 @@ One of my first tasks as an assistant manager in the Varsity Swim Team was to ma
 WarriorFAQOld.pdf: The original FAQ document
 
 WarriorFAQRedesigned.pdf: The new FAQ document
+
+Feel free to look over the documents. If there are any improvements that I can make, feel free to contact me at: [myhao@edu.uwaterloo.ca](mailto:myhao@edu.uwaterloo.ca)
