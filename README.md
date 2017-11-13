@@ -3,4 +3,5 @@
 One of my first tasks as an assistant manager in the Varsity Swim Team was to make some changes to the FAQ document regarding design and information, which was sent out to every recruit. In this folder, you will find 2 pdf files.
 
 WarriorFAQOld.pdf: The original FAQ document
+
 WarriorFAQRedesigned.pdf: The new FAQ document
